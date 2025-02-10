@@ -8,7 +8,7 @@
 
 ## Решение с построением прогностических моделей
 
-[Файл 1 Jupyter Notebook](https://github.com/serkosil/pet_projects/tree/e030c686670223a240d7794c3e1132da697e4a43/Analysis%20shopping%20mall%20visitors/mall_visitors1.ipynb)
+[Файл 1 Jupyter Notebook](https://github.com/serkosil/pet_projects/blob/a198c0cd4dc25d4cde57056080b67e0ca45d7245/Analysis%20shopping%20mall%20visitors/mall_visitors1.ipynb)
 
 ## Решение без прогностических моделей
 
