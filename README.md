@@ -4,4 +4,10 @@
 
 ## 1. [Анализ поведения посетителей торгового центра](https://github.com/serkosil/pet_projects/tree/e030c686670223a240d7794c3e1132da697e4a43/Analysis%20shopping%20mall%20visitors)
 
-## 2. [Анализ экономических показателей разных стран](https://github.com/serkosil/pet_projects/tree/main/Analysing%20economies%20countries)
+## 2. [Изучение экономических показателей разных стран](https://github.com/serkosil/pet_projects/tree/main/Analysing%20economies%20countries)
+
+## 3. [Анализ продаж кофе]
+
+## 4. [Прогноз продаж магазина одежды]
+
+## 5. [Изучение взаимодействия пользователей на платформе электронной торговли]
